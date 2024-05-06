@@ -1,0 +1,38 @@
+_repo: Five-Nights-at-the-Five-Pines_73520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaul, Harriet A. (Harriet Avery)
+    aliases:
+    - Gaul, Harriet Lester Avery, Mrs.
+    - Gaul, Harriet Avery
+    - Gaul, Harvey B., Mrs.
+    - Gaul, Mrs. Harvey B.
+    - Gaul, Avery
+    - Avery, Harriette
+    - Gaul, Harriette A. (Harriette Avery)
+    birthdate: 1886
+    deathdate: 1972
+    gutenberg_agent_id: '57064'
+    url: http://www.gutenberg.org/2009/agents/57064
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73520'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x030788106&seq=1
+pgterms:marc905: 20240327182058gaul
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Century Co., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Five Nights at the Five Pines
+url: http://www.gutenberg.org/ebooks/73520
